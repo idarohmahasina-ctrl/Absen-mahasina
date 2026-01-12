@@ -1,0 +1,8 @@
+{
+  "name": "Smart Report Mahasina",
+  "description": "Sistem pelaporan kehadiran dan aktivitas cerdas berbasis AI untuk ekosistem Mahasina.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
